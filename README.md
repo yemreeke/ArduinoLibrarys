@@ -2,7 +2,7 @@
 
 Yukarıdan arduino kütüphanelerini indirebilirsiniz.
 
-Seçtiğiniz bir kütüphaneyi zip şeklinde indirdikten sonra, \n
+Seçtiğiniz bir kütüphaneyi zip şeklinde indirdikten sonra, 
 
 Arduino->Taslak->Library Ekle->ZIP Kitaplığı Ekle 
 
