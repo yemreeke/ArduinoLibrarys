@@ -8,4 +8,4 @@ Arduino->Taslak->Library Ekle->ZIP Kitaplığı Ekle
 
 Kısmından indirdiğiniz zip dosyasını seçerek kütüphane kurulum işlemi tamamlanmıştır.
 
-Instagram Sayfam: https://www.instagram.com/bluegrays.py/
+Instagram Sayfam: https://www.instagram.com/bluegrays.ino/
